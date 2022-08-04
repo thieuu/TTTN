@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdminSmartWatch</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="cho">Không có đơn hàng đang chờ duyệt</string>
+    <string name="danggiao">Không có đơn hàng đang giao</string>
+    <string name="dagiao">Không có đơn hàng đã giao</string>
+    <string name="dahuy">Không có đơn hàng đã hủy</string>
+</resources>
